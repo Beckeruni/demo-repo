@@ -1,2 +1,2 @@
 # DEMO
-my first demo project
+my first demo!
